@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "name": "ana ",
+      "email": "ana@ana",
+      "corporate_name": "ana ltda",
+      "legal_responsible": "ana maria",
+      "cnpj": "707070",
+      "company_segment": "MODA",
+      "address": "rua da moda 71 ",
+      "telefone": "01178787878",
+      "id": 1
+    }
+  ]
+}
